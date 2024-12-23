@@ -1,15 +1,13 @@
-**Hello... Readers...** 
-  
-I Am Vasu Sahu Doing Virtual Internship Programme From CodSoft On "C++ Programming" .  
-The Duration Of The Internship Will Be **4 Weeks** , Strating From **20 January 2024** to **20 February 2024** .
+# 👋 Hello, Readers!  
 
-I Have Done A Collective Of 3 Codes , Which Are Following :
- + *Guess The Number Game*
- + *A Simple calculator*
- + *Student Grading System*
+I recently completed a **🌐 Virtual Internship Program** as a **💻 C++ Developer** with **CodSoft**. This 4-week internship provided invaluable hands-on experience and enhanced my skills in **✨ C++ Programming** and **Object-Oriented Programming (OOP)**.  
 
-Throughout The Journey , The CodSoft Help Me To Achieve This Milestone Through Their Enormous Experiences .  
-Thanks You For Your Companionship...I Am Looking Forward To Work With You Again...  
+## 📂 Projects Completed:  
+- 🎮 **Guess The Number Game**  
+- ➗ **A Simple Calculator**  
+- 📝 **Student Grading System**  
 
-EMAIL : Vasu.sahu.8080@gmail.com  
-**ID : CS11WX166284**
+I am immensely grateful to CodSoft for their guidance and support throughout this program, which helped me achieve this milestone. I look forward to more opportunities to collaborate in the future.  
+
+📧 **Email:** Vasu.sahu.8080@gmail.com  
+🆔 **ID:** *CS11WX166284*  
